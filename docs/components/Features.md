@@ -1,20 +1,11 @@
 # Features
 
-## Restaking
-Kibl enables efficient restaking of BTC and ETH assets through our innovative protocol. Our restaking mechanism allows users to maximize their yield while maintaining security and liquidity.
+## Enhanced Lending and Borrowing
+Kibl leverages Hyperliquid’s optimized trading infrastructure to offer an improved lending and borrowing experience. Users can access higher Loan-to-Value (LTV) ratios, enabling more flexible capital management without compromising on platform security.
 
-## Lending Protocol
-Our next-generation decentralized lending protocol powers the Kibl ecosystem, available on:
-- BNB Chain
-- opBNB
-- Ethereum
-- Mantle Network
 
-Users can deploy their LRTs for compound yield and DeFi positions with maximal capital efficiency.
+## Optimized Trading Integration
+By utilizing Hyperliquid’s infrastructure, Kibl provides users with real-time trading efficiency. Borrowers and lenders benefit from faster transaction speeds, reduced costs, and minimal slippage, improving overall platform performance.
 
-## Layer 2 Solutions
-Our upcoming yield-bearing Layer 2 will provide:
-- Automatic rebasing validator
-- Re-staking yield into BTC and ETH
-- Enhanced scalability and performance
-- Reduced transaction costs
+## Community-Driven Growth
+Kibl actively integrates feedback from its user base, allowing the platform to evolve in alignment with community needs. This collaborative approach ensures that Kibl remains relevant and adaptable in the fast-changing DeFi space.
